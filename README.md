@@ -8,6 +8,7 @@
 
 
 API: https://openweathermap.org/
+<br>
 ![image](https://github.com/CristianAnd/clima-app/assets/61318221/8944896b-fd94-491d-a23b-22a614888490)
 
 

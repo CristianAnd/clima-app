@@ -8,4 +8,7 @@
 
 
 API: https://openweathermap.org/
+![image](https://github.com/CristianAnd/clima-app/assets/61318221/8944896b-fd94-491d-a23b-22a614888490)
+
+
 Tutor:https://www.youtube.com/@MatheusBattisti

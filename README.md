@@ -1,13 +1,23 @@
 # Página web - Clima (Projeto de aprendizagem)
 
-![image](https://github.com/CristianAnd/clima-app/assets/61318221/c1c21ca1-ef02-4ee5-bc58-2e30dad89548)
 
+![image](https://github.com/CristianAnd/clima-app/assets/61318221/c1c21ca1-ef02-4ee5-bc58-2e30dad89548)
 ![image](https://github.com/CristianAnd/clima-app/assets/61318221/e7ecc6b9-8fc2-43a1-add6-b7b7b15c2417)
 
+> Website previsão de tempo para se manter informado sobre o clima no dia-a-dia.
+Melhorias serão adicionadas ao longo do tempo.
 
-API: https://openweathermap.org/
-<br>
-![image](https://github.com/CristianAnd/clima-app/assets/61318221/8944896b-fd94-491d-a23b-22a614888490)
+ ### Ajustes e melhorias
+ O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
+- [ ] Melhorias de UX e UI design
+- [ ] Melhorias no código-fonte
+- [ ] Responsividade para dispositivos móveis, tablets e afins
+
+      
+
+ ### API utilizada
+![image](https://github.com/CristianAnd/clima-app/assets/61318221/65c4f948-01fe-4930-856a-06d384767160)
+https://openweathermap.org/
 
 
 Tutor:https://www.youtube.com/@MatheusBattisti

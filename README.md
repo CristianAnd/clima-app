@@ -1,10 +1,8 @@
 # Página web - Clima (Projeto de aprendizagem)
 
-![image](https://github.com/CristianAnd/clima-app/assets/61318221/7dc7eee7-9046-4504-9898-5387128a7a70)
+![image](https://github.com/CristianAnd/clima-app/assets/61318221/c1c21ca1-ef02-4ee5-bc58-2e30dad89548)
 
-![image](https://github.com/CristianAnd/clima-app/assets/61318221/0bb48d70-5568-42bf-89bb-21e81e0a3306)
-
-![image](https://github.com/CristianAnd/clima-app/assets/61318221/7b802a3e-249f-48fd-9541-1c1ed197e05f)
+![image](https://github.com/CristianAnd/clima-app/assets/61318221/e7ecc6b9-8fc2-43a1-add6-b7b7b15c2417)
 
 
 API: https://openweathermap.org/
@@ -13,3 +11,6 @@ API: https://openweathermap.org/
 
 
 Tutor:https://www.youtube.com/@MatheusBattisti
+Projeto de aprendizado, porém, irei atualizando com o tempo, para aprimorar minhas habilidades. 
+
+V1.0

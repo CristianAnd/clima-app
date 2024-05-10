@@ -1,6 +1,8 @@
-# Página web - Clima (Projeto de aprendizagem)
+<h1 align="center" style="font-weight: bold;">Clima tempo💻</h1>
 
-[JAVASCRIPT__BADGE]: https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript
+![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 
 ![image](https://github.com/CristianAnd/clima-app/assets/61318221/c1c21ca1-ef02-4ee5-bc58-2e30dad89548)
 ![image](https://github.com/CristianAnd/clima-app/assets/61318221/e7ecc6b9-8fc2-43a1-add6-b7b7b15c2417)
